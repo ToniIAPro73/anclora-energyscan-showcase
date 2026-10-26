@@ -60,7 +60,7 @@ REASON=Static showcase repository.
 
 APPLICATION_NAME=Anclora Energyscan Showcase
 REPOSITORY=anclora-energyscan-showcase
-APPLICATION_TYPE=governance_or_static_library
+APPLICATION_TYPE=documentation
 FRAMEWORK=Node.js
 
 ## 2. Runtime Topology
